@@ -3,3 +3,4 @@
 - Kaffe
 - Bok
 - Godis
+- Scanner
