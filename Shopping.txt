@@ -2,3 +2,4 @@
 - Tomat
 - Kaffe
 - Bok
+- Godis
