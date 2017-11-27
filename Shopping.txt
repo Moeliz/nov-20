@@ -3,3 +3,5 @@
 - Kaffe
 - Bok
 - Bananer
+- Godis
+- Scanner
